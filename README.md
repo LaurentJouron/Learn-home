@@ -65,6 +65,14 @@ ___
       <a href=https://app.diagrams.net/"
          title="Go to draw.io" ></a> 
     </td>
+    <td align="center">
+      <a href=https://www.zenhub.com/">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWR-VPNHKvU4FepBkxwJhQF5kpBzitZtMmfw&usqp=CAU" /><br />
+        <sub><b>Go ZenHub</b></sub></a><br />
+      <a href=https://www.zenhub.com/"
+         title="Go ZenHub" ></a> 
+    </td>
   </tr>
 </table>
 
@@ -166,6 +174,14 @@ ___
         <sub><b>Allez sur draw.io</b></sub></a><br />
       <a href=https://app.diagrams.net/"
          title="Allez sur draw.io" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://www.zenhub.com/">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWR-VPNHKvU4FepBkxwJhQF5kpBzitZtMmfw&usqp=CAU" /><br />
+        <sub><b>Allez sur ZenHub</b></sub></a><br />
+      <a href=https://www.zenhub.com/"
+         title="Allez sur ZenHub" ></a> 
     </td>
   </tr>
 </table>
