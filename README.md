@@ -45,7 +45,7 @@ __________
 
 ___
 
-<p align="left">Making prototypes with Adobe XD. Use case diagram with draw.io
+<p align="left">I made these prototypes using Adobe XD, use cases with app.diagrams and Kanban with ZenHub
 
 <table>
   <tr>
@@ -152,11 +152,11 @@ __________
 
 __________
 
-<h1 align="center">Logiciel utilisé</h1>
+<h1 align="center">Logiciel utilisé et site</h1>
 
 ___
 
-<p align="left">J'ai réalisé ces prototypes à l'aide d'Adobe XD.
+<p align="left">J'ai réalisé ces prototypes à l'aide d'Adobe XD, les cas d'usage avec app.diagrams et le Kanban avec ZenHub .
 
 <table>
   <tr>
